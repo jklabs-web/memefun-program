@@ -23,7 +23,7 @@ data providers, indexers, terminals, and wallets.
 **Instructions**
 - `create_token` — new token launch
 - `buy` / `sell` — trade on the bonding curve
-- `swap` — WSOL-routed swap (Jupiter-compatible path)
+- `swap` — WSOL-routed swap
 - `claim_creator_fees`, `claim_protocol_fees`, `initialize`, `set_curve_config`, `set_fee_recipient`
 
 **Events**
