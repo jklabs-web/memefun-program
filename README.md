@@ -1,8 +1,8 @@
 # meme.fun — Program & IDL Reference
 
 **meme.fun** is a fair-launch memecoin launchpad on Solana. Tokens launch on an
-on-chain bonding curve with a native AMM; each token is an **SPL Token-2022** mint,
-WSOL-settled and Jupiter-compatible.
+on-chain bonding curve with a native AMM; each token is a **Token-2022** mint,
+WSOL-settled.
 
 This repository publishes the program's public interface (Anchor IDL) for integrators —
 data providers, indexers, terminals, and wallets.
